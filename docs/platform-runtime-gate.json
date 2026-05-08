@@ -1,0 +1,13 @@
+{
+  "product": "pigment-light-primary-color-sim",
+  "title": "顔料と光の三原色シミュレーター",
+  "domain": "Game",
+  "ideaNo": 9,
+  "platformType": "browser-web",
+  "expectedPublicTarget": "GitHub Pages / BOOTH",
+  "browser": {
+    "evidence": "dist/web-smoke-result.json"
+  },
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
