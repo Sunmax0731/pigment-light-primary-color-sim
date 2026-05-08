@@ -1,0 +1,38 @@
+{
+  "product": "pigment-light-primary-color-sim",
+  "sourceRank": {
+    "rank": 43,
+    "tier": "P2",
+    "score": 58,
+    "domain": "Game",
+    "ideaNo": 9,
+    "ideaName": "顔料と光の三原色シミュレーター",
+    "repositoryName": "pigment-light-primary-color-sim",
+    "publicTarget": "GitHub Pages / BOOTH",
+    "priorityReason": "元100件下位候補。教育デモとして独自性はあるが、物理表現の調整が必要。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\Game\\created_idea_009_pigment-light-primary-color-sim",
+  "exactZipPath": "D:\\AI\\Game\\created_idea_009_pigment-light-primary-color-sim\\idea_009_pigment-light-primary-color-sim.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "pigment-light-primary-color-sim",
+  "metadataIdea": "顔料と光の三原色シミュレーター",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
